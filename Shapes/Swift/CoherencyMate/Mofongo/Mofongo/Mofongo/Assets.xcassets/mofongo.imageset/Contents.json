@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "traditional-mofongo-recipe-2138186-hero-01-7e8ce26a92484373b9aa4253d6dd1d0d.heic",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
